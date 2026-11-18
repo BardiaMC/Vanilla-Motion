@@ -33,9 +33,23 @@ No unnecessary gameplay changes.
 No complicated setup.
 Just a collection of improvements designed to make Minecraft run and feel better.
 
----
+## 💬 Join the Vanilla Motion Community!
 
-### ❤️ Enjoy the Game
+Want to stay up to date with Vanilla Motion and be part of its development journey?
+
+Join our Discord server to:
+
+* 📢 Get notified about new updates and announcements.
+* 🐛 Report bugs and help us improve the modpack.
+* 💡 Share your ideas and suggest future improvements.
+* 🛠️ Follow development progress and upcoming plans.
+* 🤝 Connect with other players who enjoy a better vanilla Minecraft experience.
+
+**Your feedback matters!** Vanilla Motion is an evolving project, and your ideas can help shape its future.
+
+[🔗 **Join our Discord** ](https://discord.gg/sntJUGaGUv)
+
+## ❤️ Enjoy the Game
 
 Thanks for checking out the project!
 
